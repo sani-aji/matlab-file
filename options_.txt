@@ -1,0 +1,6 @@
+net_name imagenet-resnet-152-dag.mat
+layer pool1
+labels 12
+image_type jpg
+model_type svm
+aug_par on
